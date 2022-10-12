@@ -10,7 +10,7 @@ Minishell is a 1337 project about creating a simple shell, this is a group proje
 - Handles $? which should expand the exit status.
 - Handles ctrl-C, ctrl-D and ctrl-\ .
 - The following builtins are made by the executer:
-  echo with -n<br/>
+  echo with (-n)<br/>
   cd<br/>
   pwd<br/><br/>
   export<br/>
