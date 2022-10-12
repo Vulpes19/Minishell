@@ -11,7 +11,7 @@ Minishell is a 1337 project about creating a simple shell, this is a group proje
 - Handles ctrl-C, ctrl-D and ctrl-\ .
 - The following builtins are made by the executer:
   echo with -n<br/>
-  cd with - option<br/>
+  cd<br/>
   pwd<br/><br/>
   export<br/>
   unset<br/>
