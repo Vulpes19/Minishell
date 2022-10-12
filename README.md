@@ -9,7 +9,7 @@ Minishell is a 1337 project about creating a simple shell, this is a group proje
 - Handles environment variables which should expand to their values.
 - Handles $? which should expand the exit status.
 - Handles ctrl-C, ctrl-D and ctrl-\ .
-- The following builtins are made by the executer:
+- The following builtins are made by the executer:<br/>
   echo with (-n)<br/>
   cd<br/>
   pwd<br/><br/>
