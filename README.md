@@ -10,13 +10,13 @@ Minishell is a 1337 project about creating a simple shell, this is a group proje
 - Handles $? which should expand the exit status.
 - Handles ctrl-C, ctrl-D and ctrl-\ .
 - The following builtins are made by the executer:
-  echo with -n
-  cd with - option
-  pwd
-  export
-  unset
-  env
-  exit
+  echo with -n<br/>
+  cd with - option<br/>
+  pwd<br/><br/>
+  export<br/>
+  unset<br/>
+  env<br/>
+  exit<br/>
 ## The team
-The parser: [@0xDopamine]
+The parser: [@0xDopamine]<br/>
 The executer: [@Vulpes19]
