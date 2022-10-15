@@ -12,7 +12,7 @@ Minishell is a 1337 project about creating a simple shell, this is a group proje
 - The following builtins are made by the executer:<br/>
   echo with (-n)<br/>
   cd<br/>
-  pwd<br/><br/>
+  pwd<br/>
   export<br/>
   unset<br/>
   env<br/>
